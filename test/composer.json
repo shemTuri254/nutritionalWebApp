@@ -1,0 +1,6 @@
+{
+    "require": {
+        "respect/validation": "^2.2",
+        "twbs/bootstrap": "^5.2"
+    }
+}
